@@ -1,4 +1,4 @@
-# 🌿 DearMe Project
+# 🌿 DearMe 
 
 > 하루의 감정을 기록하면, AI가 공감하고 답장해주는 감정 일기 서비스
 
